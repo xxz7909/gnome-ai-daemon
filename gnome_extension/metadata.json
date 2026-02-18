@@ -1,0 +1,8 @@
+{
+  "name": "GNOME AI Bridge",
+  "description": "Exposes a DBus service (org.gnome.AIBridge) for AI agents to query and control the desktop",
+  "uuid": "gnome-ai-bridge@local",
+  "shell-version": ["46", "47", "48"],
+  "version": 1,
+  "url": ""
+}

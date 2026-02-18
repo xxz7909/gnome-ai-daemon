@@ -1,0 +1,8 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.0.0
+requests>=2.31.0
+mss>=9.0.1
+Pillow>=10.2.0
+# dbus-python and PyGObject come from system packages (python3-dbus, python3-gi)
+# installed via apt in install.sh — do NOT pip install them here.
